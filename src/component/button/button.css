@@ -1,0 +1,15 @@
+.addButton{
+    flex-basis: 0;
+    margin: 20px 20px;
+    background-color:  #CAF0F8;
+    border-radius: 8px;
+    border:none;
+    padding: 10px 5px;
+    color: #03045E;
+    font-weight: bolder;
+}
+
+.addButton:hover{
+    cursor: pointer;
+    box-shadow: 0 0 6px #03045E;
+}

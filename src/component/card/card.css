@@ -1,0 +1,13 @@
+.card{
+    width: 90%;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 8px;
+    margin: 0 5%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.text-bold{
+    font-weight: bold;
+}

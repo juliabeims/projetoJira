@@ -1,0 +1,19 @@
+
+.board{
+    display: flex;
+    height: calc(100vh - 200px - 40px);
+    justify-content: center;
+    
+}
+
+.board-div{
+    background-color: #00B4D8;
+    border-radius: 20px;
+    box-sizing: border-box;
+    display: flex;
+    height: 100%;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+    width: 80%;
+}
